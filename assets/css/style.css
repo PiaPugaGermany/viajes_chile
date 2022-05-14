@@ -1,5 +1,5 @@
 /*Navbar*/
-.nav-black {
+/* .nav-black {
     background-color: black;
     color: white;
   }
@@ -14,5 +14,14 @@
     .dark-celu {
       background-color: black;
     }
-  
-  }
+   */
+
+body{
+    background-color: black;
+    color: white;
+}
+.card-img-top{
+    width: 100%;
+    height: 10vw;
+    object-fit: cover;
+}
