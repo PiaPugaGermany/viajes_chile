@@ -5,6 +5,11 @@ body {
     font-family: "Raleway", sans-serif;
 }
 
+.navbar{
+font-family: "Raleway";
+font-weight: 400;
+}
+
 /* Navbar */
 .bgcolor.scrolled{
     background-color: #0dcaf0;
@@ -12,6 +17,6 @@ body {
 
 .card-img-top {
     width: 100%;
-    height: 10vw;
+    height: 15vw;
     object-fit: cover;
 }
