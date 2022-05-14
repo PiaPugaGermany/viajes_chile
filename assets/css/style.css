@@ -1,26 +1,16 @@
-/*Navbar*/
-/* .nav-black {
-    background-color: black;
-    color: white;
-  }
-  
-  .dark-celu .container {
-    background-color: transparent;
-  }
-  
-  
-  @media only screen and (max-width: 991px) {
-    
-    .dark-celu {
-      background-color: black;
-    }
-   */
 
-body{
+body {
     background-color: black;
     color: white;
+    font-family: "Raleway", sans-serif;
 }
-.card-img-top{
+
+/* Navbar */
+.bgcolor.scrolled{
+    background-color: #0dcaf0;
+}
+
+.card-img-top {
     width: 100%;
     height: 10vw;
     object-fit: cover;
